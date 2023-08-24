@@ -1,0 +1,9 @@
+/* Copyright (c) 2023 YA-androidapp(https://github.com/yzkn) All rights reserved. */
+
+
+#clock {
+    height: 800px;
+    max-height: 800px;
+    position: relative;
+    width: 100%;
+}
